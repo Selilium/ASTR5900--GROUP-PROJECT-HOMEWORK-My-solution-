@@ -21,6 +21,19 @@ The model learns a compressed representation of the signal and removes Gaussian 
 
 The model successfully learns to recover the underlying sine signal structure despite significant noise.
 
+### Noisy vs Clean Signals
+
+![Noise Example](example_noise.png)
+
+### Training vs Validation Loss
+
+![Loss Curve](loss_curve.png)
+
+### Signal Reconstruction
+
+![Reconstruction](reconstruction.png)
+
+
 ## Technologies
 
 - Python
